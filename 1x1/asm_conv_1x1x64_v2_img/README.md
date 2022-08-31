@@ -1,0 +1,2 @@
+- The MATLAB script generates a C array declaration of size NxN (N = 100 here), from an 8bit grayscale image. 
+- The terminal output after convolution can be saved into a csv file and visualized using MATLAB or Python.
